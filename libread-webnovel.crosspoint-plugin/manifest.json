@@ -1,0 +1,9 @@
+{
+  "name": "libread-webnovel",
+  "title": "LibRead Web Novels",
+  "mount": "settings",
+  "version": "1.0.0",
+  "author": "mrcloudworks-glitch",
+  "description": "Browse, search, download, and update web novels from libread.com as e-ink-optimized EPUBs for CrossPoint / Xteink X3 & X4.",
+  "files": ["manifest.json", "plugin.js", "README.md"]
+}

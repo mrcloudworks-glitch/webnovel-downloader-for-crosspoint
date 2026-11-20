@@ -1,0 +1,13 @@
+{
+  "name": "libread-crosspoint-e2e",
+  "private": true,
+  "version": "1.0.0",
+  "description": "End-to-end harness: runs the libread-webnovel CrossPoint plugin in jsdom against a mock device API backed by live-site fixtures.",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node run-test.js"
+  },
+  "dependencies": {
+    "jsdom": "^26.0.0"
+  }
+}
